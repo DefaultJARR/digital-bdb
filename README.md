@@ -1,1 +1,1 @@
-v1.0.1 - Feature1 advances
+v1.1.0
